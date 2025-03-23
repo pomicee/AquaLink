@@ -8,6 +8,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/ToddyTheNoobDud/AquaLink?color=00bfff&style=for-the-badge&logo=github)](https://github.com/ToddyTheNoobDud/AquaLink/stargazers)
 [![Downloads](https://img.shields.io/npm/dt/aqualink.svg?style=for-the-badge&color=3498db)](https://www.npmjs.com/package/aqualink)
 [![Discord](https://img.shields.io/discord/1346930640049803266?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/K4CVv84VBC)
+[![NPM Downloads](https://img.shields.io/npm/dt/aqualink.svg?style=for-the-badge&color=3498db)](https://www.npmjs.com/package/aqualink)
 
 <br />
 
